@@ -1,78 +1,85 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Suraj and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
+# Konichiwa 👋
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
 
 <p>
+ </br>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
 </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/caioabrahao"><img width="24" src="https://avatars.githubusercontent.com/u/124058798?s=24&u=aaaa32650e3523dc0b9d9e17cdf91718023570e7&v=4" alt="caioabrahao" /> caioabrahao</a> |1/29/2025, 11:54:00 PM|no way this works, awesome!|
-| <a href="https://github.com/sudojoao"><img width="24" src="https://avatars.githubusercontent.com/u/162704766?s=24&u=3e86b664f79343e05d087196302d60013beadea1&v=4" alt="sudojoao" /> sudojoao</a> |1/29/2025, 3:46:18 AM|very cool|
-| <a href="https://github.com/usefmahmud"><img width="24" src="https://avatars.githubusercontent.com/u/129234471?s=24&u=298677447c3161407de316a54ee02923ab558bcc&v=4" alt="usefmahmud" /> usefmahmud</a> |1/26/2025, 11:12:45 AM|Amazing|
-| <a href="https://github.com/yashikacodes"><img width="24" src="https://avatars.githubusercontent.com/u/133915106?s=24&u=6c272318e800ffa334bca7a72ccdd0c9e0a20c97&v=4" alt="yashikacodes" /> yashikacodes</a> |1/25/2025, 1:01:18 AM|Great workkk Livio :) !!!|
-| <a href="https://github.com/SD-W1972"><img width="24" src="https://avatars.githubusercontent.com/u/93013194?s=24&u=e1679b57f898b987a356ffcd3f50223282c75d8d&v=4" alt="SD-W1972" /> SD-W1972</a> |1/17/2025, 12:20:33 PM|rust > javascript<br /><br />agreed !|
-<!-- /Guestbook -->
-
-<!-- Footer -->
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
-</div>
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
