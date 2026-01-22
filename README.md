@@ -66,44 +66,16 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 ---
 
 <!-- 🎁 LEETCODE & GFG SECTION -->
-<div align="center">
-  <h2>🎯 Coding Practice Profiles</h2>
-</div>
 
 <p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/suraj0_0/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-      alt="LeetCode"
-      width="55"
-      height="55"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/profile/suraj00/" target="_blank">
-    <img
-      src="https://img.icons8.com/color/96/GeeksforGeeks.png"
-      alt="GeeksforGeeks"
-      width="55"
-      height="55"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Codolio -->
   <a href="https://codolio.com/profile/suraj0_0" target="_blank">
     <img
-      src="https://img.icons8.com/fluency/96/code.png"
-      alt="Codolio"
-      width="55"
-      height="55"
+      src="https://img.shields.io/badge/CODOLIO-DSA%20PROFILE-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=111827"
+      alt="Codolio DSA Profile"
+      width="520"
     />
   </a>
 </p>
-
 
 
 ---
