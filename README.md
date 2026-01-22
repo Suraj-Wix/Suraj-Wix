@@ -71,7 +71,6 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 ---
 
 <!-- 🎁 LEETCODE & GFG SECTION -->
-
 <p align="center">
   <a href="https://codolio.com/profile/suraj0_0" target="_blank">
     <img
