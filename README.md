@@ -94,9 +94,25 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 <p align="center">
   <!-- LeetCode 25,100 Problems Solved GIF -->
   <img 
+    src="https://github.com/Suraj-Wix/Suraj-Wix/blob/main/assets/Leetcode/2550.gif" 
+    width="100px" 
+    alt="LeetCode Problems Solved" 
+  />
+  <img 
     src="https://github.com/Suraj-Wix/Suraj-Wix/blob/main/assets/Leetcode/25100.gif" 
     width="100px" 
     alt="LeetCode Problems Solved"
+  />
+  <img 
+    src="https://github.com/Suraj-Wix/Suraj-Wix/blob/main/assets/Leetcode/GFG-GIF-1667467528.gif" 
+    width="100px" 
+    alt="GFG Problems Solved" 
+  />
+  <img 
+    <img 
+    src="https://github.com/Suraj-Wix/Suraj-Wix/blob/main/assets/Leetcode/coin.gif" 
+    width="100px" 
+    alt="LeetCode Problems Solved" 
   />
 </p>
 
