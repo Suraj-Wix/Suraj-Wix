@@ -1,7 +1,8 @@
+<!-- README maintained by Suraj Kumar Sharma -->
 <h1 align="center">Hi there 👋, I'm Suraj Kumar Sharma</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;MERN+Stack+Developer;DSA+in+C%2B%2B+Enthusiast;Aspiring+Software+Engineer&center=true&width=420&height=45">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;Frontend+Developer;MERN+Stack+Developer;DSA+in+C%2B%2B+Enthusiast;Aspiring+Software+Engineer&center=true&width=420&height=45">
 </p>
 
 ---
@@ -15,6 +16,10 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 ---
 
 ## 🌐 Socials
+<div align="left">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj.k.sharma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-kumar-sharma01/)
@@ -85,10 +90,16 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20C%2B%2B%20%7C%20CP-purple?style=flat-square" />
 </p>
+<!-- 🏅 MY LEETCODE ACHIEVEMENTS -->
 
-
-
-
+<p align="center">
+  <!-- LeetCode 25,100 Problems Solved GIF -->
+  <img 
+    src="https://github.com/Suraj-Wix/Suraj-Wix/blob/main/assets/Leetcode/25100.gif" 
+    width="100px" 
+    alt="LeetCode Problems Solved"
+  />
+</p>
 
 ---
 
@@ -105,4 +116,9 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Suraj-Wix&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <b>Thank you for visiting my profile.</b><br/>
+  <sub>Curious, motivated to learn, and ready to grow as a software engineer.</sub>
+</p>
 
