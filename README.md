@@ -82,10 +82,10 @@ I am a motivated learner, eager to apply my knowledge, gain hands-on experience,
 </p>
 <p align="center">
   <a href="https://codolio.com/profile/suraj0_0" target="_blank">
-    <img src="https://img.shields.io/badge/Problems%20Solved-291-success?style=flat-square&logo=leetcode" />
+    <img src="https://img.shields.io/badge/Problems%20Solved-314-success?style=flat-square&logo=leetcode" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Active%20Days-171-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Active%27Days-183-blue?style=flat-square&logo=github" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20C%2B%2B%20%7C%20CP-purple?style=flat-square" />
 </p>
